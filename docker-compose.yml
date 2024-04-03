@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  apisignalrbg:
+    image: ${DOCKER_REGISTRY-}apisignalrbg
+    build:
+      context: .
+      dockerfile: ApiSignalrBG/Dockerfile

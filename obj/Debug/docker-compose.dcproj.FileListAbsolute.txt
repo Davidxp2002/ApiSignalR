@@ -1,0 +1,13 @@
+/Users/davidaguirre/Projects/ApiSignalrBG/bin/Debug/ApiSignalrBG.deps.json
+/Users/davidaguirre/Projects/ApiSignalrBG/bin/Debug/ApiSignalrBG.runtimeconfig.json
+/Users/davidaguirre/Projects/ApiSignalrBG/bin/Debug/appsettings.Development.json
+/Users/davidaguirre/Projects/ApiSignalrBG/bin/Debug/appsettings.json
+/Users/davidaguirre/Projects/ApiSignalrBG/bin/Debug/ApiSignalrBG
+/Users/davidaguirre/Projects/ApiSignalrBG/bin/Debug/ApiSignalrBG.dll
+/Users/davidaguirre/Projects/ApiSignalrBG/bin/Debug/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/davidaguirre/Projects/ApiSignalrBG/bin/Debug/Swashbuckle.AspNetCore.Swagger.dll
+/Users/davidaguirre/Projects/ApiSignalrBG/bin/Debug/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/davidaguirre/Projects/ApiSignalrBG/bin/Debug/ApiSignalrBG.pdb
+/Users/davidaguirre/Projects/ApiSignalrBG/obj/Debug/docker-compose.dcproj.AssemblyReference.cache
+/Users/davidaguirre/Projects/ApiSignalrBG/obj/Debug/docker-compose.dcproj.CoreCompileInputs.cache
+/Users/davidaguirre/Projects/ApiSignalrBG/obj/Debug/docker-compose.dcproj.CopyComplete
